@@ -1,0 +1,41 @@
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment
+venv/
+env/
+
+# PyInstaller
+build/
+dist/
+*.spec
+
+# Jupyter Notebook
+app.ipynb
+
+# IDE
+.claude/
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Environment Variables
+.env
+.env.local
+
+# Google API Credentials and Tokens
+src/infrastructure/tokens/*.json
+!src/infrastructure/tokens/__init__.py
+credentials.json
+token.json
+Access_token.json
+
+# Kit files
+kit-acidentario-automacao/
+kit-acidentario-automacao.zip
