@@ -20,7 +20,7 @@ Funcionário do escritório (usuário do sistema)
 
 - A pasta do cliente existe no Google Drive
 - O arquivo "contrato" existe na pasta do cliente
-- O template "Kit Acidentário - Atualizado" existe no Drive (ID: 1Leovfq_kYeZBsUAEqMttlMFF7RORhxkp)
+- O template - existe no Drive
 
 **Pós-condições**
 
@@ -31,7 +31,7 @@ Funcionário do escritório (usuário do sistema)
 
 1. Receber o link da pasta do cliente
 2. Conectar na API do Google
-3. Encontrar o template "Kit Acidentário - Atualizado" (ID: 1Leovfq_kYeZBsUAEqMttlMFF7RORhxkp) no Drive da ABL
+3. Encontrar o template 
 4. Fazer uma cópia do template "Kit Acidentário - Atualizado" para a pasta do cliente
 5. Procurar o arquivo "contrato" na pasta do cliente
 6. Realizar a extração dos dados do arquivo "contrato"
