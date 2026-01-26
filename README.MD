@@ -11,7 +11,7 @@ Automatizar o preenchimento do Kit Acidentário extraindo os dados do cliente a 
 - Integração com **Google Drive API** e **Google Docs API**
 - Processamento inteligente de dados com **OpenAI GPT-4**
 
-![Interface da Aplicação](image.png)
+
 
 **Ator Principal**
 Funcionário do escritório (usuário do sistema)
